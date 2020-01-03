@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="19008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)]!!!*Q(C=\&gt;7R&lt;2N"%)8B:]-'H$*5:N(K9#IQQ"&lt;9QD4AA+G5W"=Z@[%$*WS",5Q,&lt;)%N50]N2Y1%''2C'Y;B03ZZ@,?\]_HO?**'_S#^U`&amp;;?X_RH9\0Q]&lt;1]88MD.&gt;4="L;LXY\PJD`]PB4`OTTUPTDO=KP[V`U8WF[&lt;;`N`W\X6X]%@`RX]%&lt;TAYB?&gt;./4(JL,(IO]S)O]S)O]S%VO=J/&lt;X/1G4`)E4`)E4`)E$`)A$`)A$`)A(ROZS%5O=EB&amp;];*1M7CR1$%9CIKXQF.Y#E`BY;M+4_%J0)7H]$"%B;@Q&amp;*\#5XC9JM*4?!J0Y3E],$5E.4:S0)7(Z75]RG-]RG-]F*4R')!J:B9WC]#1/7BWD-&gt;YD)&gt;&gt;'9`R')`R'!_(:4T'9TT'9TR-'7@&amp;1T.PZ(B92IEH]33?R*.Y7&amp;K**`%EHM34?#CHR*.Y%E23-&amp;E=AJ**S9$E3_**0(QI]33?R*.Y%A_(RB8+=7:GT&lt;S2YQE]A3@Q"*\!QR)+0)%H]!3?Q-/S#DS"*`!%HM"$+17?Q".Y!EB1F0)+&amp;AMG"I/#)0$Q'H&gt;,D+PE)9GR38XTKG^+^=WGPIH5.Y@[IKMPJPICK5___K3K4Z&lt;[*+D`/$6;D6%855_?"_L!_Z[_IW`J%XV$8^.8^#6^-5`^T1-0BY0W_\VWOZWWW[WG;&gt;*GM^&amp;[P&gt;:KN&gt;*SO&gt;2CM4A`"D[SH2])J_@30@P@PNT=4H=`0X_^_`(QQ/@X4T?X=`Y8`D``!]^'P&gt;8T'JSD2\&lt;C0$Q!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
+<Library LVVersion="15008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)]!!!*Q(C=\&gt;7R&lt;2N"%)8B:]-'H$*5:N(K9#IQQ"&lt;9QD4AA+G5W"=Z@[%$*WS",5Q,&lt;)%N50]N2Y1%''2C'Y;B03ZZ@,?\]_HO?**'_S#^U`&amp;;?X_RH9\0Q]&lt;1]88MD.&gt;4="L;LXY\PJD`]PB4`OTTUPTDO=KP[V`U8WF[&lt;;`N`W\X6X]%@`RX]%&lt;TAYB?&gt;./4(JL,(IO]S)O]S)O]S%VO=J/&lt;X/1G4`)E4`)E4`)E$`)A$`)A$`)A(ROZS%5O=EB&amp;];*1M7CR1$%9CIKXQF.Y#E`BY;M+4_%J0)7H]$"%B;@Q&amp;*\#5XC9JM*4?!J0Y3E],$5E.4:S0)7(Z75]RG-]RG-]F*4R')!J:B9WC]#1/7BWD-&gt;YD)&gt;&gt;'9`R')`R'!_(:4T'9TT'9TR-'7@&amp;1T.PZ(B92IEH]33?R*.Y7&amp;K**`%EHM34?#CHR*.Y%E23-&amp;E=AJ**S9$E3_**0(QI]33?R*.Y%A_(RB8+=7:GT&lt;S2YQE]A3@Q"*\!QR)+0)%H]!3?Q-/S#DS"*`!%HM"$+17?Q".Y!EB1F0)+&amp;AMG"I/#)0$Q'H&gt;,D+PE)9GR38XTKG^+^=WGPIH5.Y@[IKMPJPICK5___K3K4Z&lt;[*+D`/$6;D6%855_?"_L!_Z[_IW`J%XV$8^.8^#6^-5`^T1-0BY0W_\VWOZWWW[WG;&gt;*GM^&amp;[P&gt;:KN&gt;*SO&gt;2CM4A`"D[SH2])J_@30@P@PNT=4H=`0X_^_`(QQ/@X4T?X=`Y8`D``!]^'P&gt;8T'JSD2\&lt;C0$Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -65,9 +65,9 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Get Initial Stock Levels.vi" Type="VI" URL="../Stock Class/Get Initial Stock Levels.vi"/>
-		<Item Name="Get Names.vi" Type="VI" URL="../Stock Class/Get Names.vi"/>
-		<Item Name="Get Stock Infomation.vi" Type="VI" URL="../Stock Class/Get Stock Infomation.vi"/>
+		<Item Name="Get Initial Stock Levels.vi" Type="VI" URL="../Get Initial Stock Levels.vi"/>
+		<Item Name="Get Names.vi" Type="VI" URL="../Get Names.vi"/>
+		<Item Name="Get Stock Infomation.vi" Type="VI" URL="../Get Stock Infomation.vi"/>
 		<Item Name="Init Module.vi" Type="VI" URL="../Init Module.vi"/>
 		<Item Name="Handle Exit.vi" Type="VI" URL="../Handle Exit.vi"/>
 		<Item Name="Close Module.vi" Type="VI" URL="../Close Module.vi"/>
@@ -94,4 +94,5 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Stock.xml" Type="Document" URL="../Stock.xml"/>
 </Library>
