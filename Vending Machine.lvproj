@@ -151,7 +151,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{37209F09-6D75-4D99-A5E6-44B57DB341E7}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Vending Machine.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Vending Machine Build/NI_AB_PROJECTNAME.exe</Property>

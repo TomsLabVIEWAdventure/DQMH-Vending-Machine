@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>15.0.1f10</Version>
+<Version>15.0.1</Version>
 <Array>
 <Name>Stock</Name>
 <Dimsize>5</Dimsize>
@@ -17,7 +17,7 @@
 </U32>
 <U32>
 <Name>Stock Level</Name>
-<Val>25</Val>
+<Val>18</Val>
 </U32>
 </Cluster>
 <Cluster>
@@ -33,7 +33,7 @@
 </U32>
 <U32>
 <Name>Stock Level</Name>
-<Val>24</Val>
+<Val>21</Val>
 </U32>
 </Cluster>
 <Cluster>
@@ -49,7 +49,7 @@
 </U32>
 <U32>
 <Name>Stock Level</Name>
-<Val>30</Val>
+<Val>27</Val>
 </U32>
 </Cluster>
 <Cluster>
@@ -65,7 +65,7 @@
 </U32>
 <U32>
 <Name>Stock Level</Name>
-<Val>52</Val>
+<Val>47</Val>
 </U32>
 </Cluster>
 <Cluster>
@@ -81,7 +81,7 @@
 </U32>
 <U32>
 <Name>Stock Level</Name>
-<Val>64</Val>
+<Val>58</Val>
 </U32>
 </Cluster>
 </Array>
